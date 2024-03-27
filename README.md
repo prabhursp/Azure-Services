@@ -3,7 +3,7 @@
 
 # Why Introduced DSP ?
 
-		DPS helps to automate the process of provisioning millions of Internet of Things (IoT) devices.
+	DPS helps to automate the process of provisioning millions of Internet of Things (IoT) devices.
   
 # What are the main advantages of DSP?
 
